@@ -1,0 +1,23 @@
+.fancyBorder {
+    padding: 10px 10px;
+    border: 10px solid;
+  }
+  .fancyBorder-blue {
+    border-color: blue;
+  }
+  .fancyBorder-red {
+    border-color: red;
+  }
+  .fancyBorder-yellow {
+    border-color: yellow;
+  }
+  
+  .dialog-title {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .dialog-message {
+    font-size: larger;
+  }
+  
